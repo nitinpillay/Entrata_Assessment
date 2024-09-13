@@ -6,7 +6,7 @@ This repository contains an automation script to test various UI elements and ac
  
 Before running the test suite, ensure you have the following installed:
  
-- Python 3.x
+- Python 3.10.12
 - Selenium ('pip install selenium')
 - Pytest ('pip install pytest')
 - Google Chrome browser
